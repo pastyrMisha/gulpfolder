@@ -1,5 +1,10 @@
-$color-main: red;
+$color-main: aqua;
+$color-secondary: white;
 
-body h1 {
+body {
     background-color: $color-main;
+}
+
+h1 {
+    color: $color-secondary;
 }
