@@ -1,5 +1,3 @@
-# buyingTVs
-TV shopping site
 
 Instructions:
 
